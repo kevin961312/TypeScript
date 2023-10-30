@@ -1,0 +1,4 @@
+npx tsc
+npx tsc --init
+npx tsc -w
+npx tsc filename.ts -w
